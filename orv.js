@@ -102,5 +102,21 @@ Nr^Z{--)azzv*r-rئ^DKN(u柵^i׫~ܶ*'r{^rbܢw޲^n0('v*rح-Yi"nWz-޲j+
                            
                            
 
-                 
+/*
+  Fixing ORV that suggested by Open Web Application Security Project (OWASP): 
+  1. Do not use forwards and redirects
+  2. Do not allow URLs as user input for a destination
+  3. Create a list of all trusted URLs, including hosts or a regex, in order to sanitize input. Prefer to use an allow-list approach when creating this list, instead of a block list.
+  4. Force redirects to first go to a page that notify users they are redirected out of the website. The message should clearly display the destination and ask users to click on a link to confirm that they want to move to the new destination.
+*/ 
+
+/*
+  Detecting and Proventing ORV:
+  Another excellent way of remedying Open Redirect vulnerability is by utilizing Bright a black-box security testing solution that examines
+  your application, APIs, or WebSockets to find vulnerabilities. 
+
+  Bright is an automatic scanner that finds both standard and major security vulnerabilities on its own, without any human assistance.
+  It is an excellent remedy for Open Redirect vulnerabilities as it can locate them swiftly and send alerts with remediation guidelines
+  to developers, or automatically open tickets in a bug tracking tool.
+*/ 
 
