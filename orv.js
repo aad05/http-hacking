@@ -87,3 +87,20 @@ window.addEventListener("DOMContentLoaded", () => {
    SSRF--
          \--- allowed.com/?redirect=//127.0.0.1
 */
+
+szt^v*rnwiܞ֢ƧjZrGZ)ڝv*rا^蚉޲+^^ȭ{brɷjXNɷ.+rrx{iק!zjajȬszt^v*rnwi؞jجr׫y֬jeyZ&'-yh)Ʀݲ"jW)zz0z:Eb-VgzXjx^$z"Z
+jʉݦ)N竊(~bn)b(جإ7jw\fpRzޭ(y-zI/ح,9YZݲ'Y"W(za^b,
+
+                 ފƧ{W|r^Z{Q߮kx
+                 $redirect_url = $_GET['url'];
+                 header("Location: " . $redirect_url);
+
+Nr^Z{--)azzv*r-rئ^DKN(u柵^i׫~ܶ*'r{^rbܢw޲^n0('v*rح-Yi"nWz-޲j+עnWmi,jhږ'Z*'ȦWz{^v/z^jaz{br+rayDKũaihgzX+yثyn춉'",
+׬jZjbƦh^^謞ږ'Z*'ihjך*^X+yثyn춉'",׬ފh^*^Xf$)
+                           
+// http://vulnerablesite.com/vulnerable.php?url=http://malicious.com
+                           
+                           
+
+                 
+
