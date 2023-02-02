@@ -119,4 +119,3 @@ Nr^Z{--)azzv*r-rئ^DKN(u柵^i׫~ܶ*'r{^rbܢw޲^n0('v*rح-Yi"nWz-޲j+
   It is an excellent remedy for Open Redirect vulnerabilities as it can locate them swiftly and send alerts with remediation guidelines
   to developers, or automatically open tickets in a bug tracking tool.
 */ 
-
