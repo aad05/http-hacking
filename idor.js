@@ -12,7 +12,7 @@
 
     Consider a website that uses the following URL to access the customer account page,
     by retrieving information from the back-end database:
-
+ff
     https://insecure-website.com/customer_account?customer_number=132355
                                                   \_________/      \__/
                                                        |             |
@@ -28,4 +28,25 @@
 
     Those kinda direct access can be done by various types of object, static files, private images...
 
+*/
+f;
+
+/*
+    To prevent IDORS:
+    - Avoid direct object references
+    - Implement detailed access control
+    - Use an unpredictable hash or random string instead
+    - Implement detailed access control
+*/
+
+/*
+    Idors happen when:
+    - Access control is not properly implemented
+    - References to data objects are predictable
+*/
+
+/*
+    To detect existing IDORS
+    - Manual testing 
+    - Code review
 */
